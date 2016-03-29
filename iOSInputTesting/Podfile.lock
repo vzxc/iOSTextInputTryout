@@ -1,0 +1,26 @@
+PODS:
+  - JVFloatLabeledTextField (1.1.0)
+  - MBAutoGrowingTextView (0.1.0)
+  - RSKGrowingTextView (1.0.1):
+    - RSKPlaceholderTextView (= 1.0.0)
+  - RSKPlaceholderTextView (1.0.0)
+  - SlackTextViewController (1.9.1)
+  - SZTextView (1.2.2)
+
+DEPENDENCIES:
+  - JVFloatLabeledTextField
+  - MBAutoGrowingTextView (~> 0.1.0)
+  - RSKGrowingTextView
+  - RSKPlaceholderTextView
+  - SlackTextViewController
+  - SZTextView
+
+SPEC CHECKSUMS:
+  JVFloatLabeledTextField: ea4a3d8387ddd43724c472bb2b8ab39b79af05d4
+  MBAutoGrowingTextView: 3955d4513be3d184fe2cb7739999c1f994dcd4d5
+  RSKGrowingTextView: 585888654fb5007e13089a71923ce78e53a6f0d4
+  RSKPlaceholderTextView: a34174067f43aa176abe0fc4de9f6ce29f2306c7
+  SlackTextViewController: 6b0d1030c53937226fc5358f217af2a34fc211cf
+  SZTextView: 3a81174dce0710a9ab069bc73a813e6df53b9c82
+
+COCOAPODS: 0.39.0
